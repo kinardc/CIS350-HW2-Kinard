@@ -22,3 +22,7 @@ Wrote the back-end and a very basic front-end GUI for a database
 of daily COVID-19 infection/death reports in Java for my Computer Science I course. This
 database included various filters for reported statistics.
 
+
+
+![Image of "Banana Bread at Work Today Dude"](https://i.imgflip.com/327m4c.jpg)
+[Click for video...](https://www.youtube.com/watch?v=wY55CdGx4H0)
