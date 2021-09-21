@@ -1,7 +1,8 @@
 # Chase Kinard
-* Open-World Games
-* Audio/Video Software
-* Anthropology
+> * Open-World Games
+> * Audio/Video Software
+> * Anthropology
+
 
 
 
@@ -24,5 +25,5 @@ database included various filters for reported statistics.
 
 
 
-![Image of "Banana Bread at Work Today Dude"](https://i.imgflip.com/327m4c.jpg)
-[Click for video...](https://www.youtube.com/watch?v=wY55CdGx4H0)
+> [Click for video...](https://www.youtube.com/watch?v=wY55CdGx4H0)
+> ![Image of "Banana Bread at Work Today Dude"](https://i.imgflip.com/327m4c.jpg)
